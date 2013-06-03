@@ -5,3 +5,6 @@ Run these commands to try it out.
   bundle
   rake db:migrate
   rails s
+
+
+[![Code Climate](https://codeclimate.com/github/sjalal/sample-rails-application.png)](https://codeclimate.com/github/sjalal/sample-rails-application)
